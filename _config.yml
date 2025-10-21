@@ -31,6 +31,14 @@ github:
 twitter:
   username: twitter_username # change to your Twitter username
 
+author:
+  default:
+    name: Vivek Srivastav
+    description: >-
+      A minimal, responsive and feature-rich Jekyll theme for technical writing.
+    url: "https://shrimadhwamatha.github.io" # the author's homepage
+    avatar: /assets/img/Madhwacharya.jpg # the author's avatar image for meta tags
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -98,7 +106,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/Madhwacharya.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
